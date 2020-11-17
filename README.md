@@ -6,5 +6,5 @@
 자세한 내용은 WIKI 페이지를 통해 확인 바랍니다.
 * [스터디정보](https://github.com/daybreak6/java-design-pattern/wiki/스터디정보)
 * [스터디일정](https://github.com/daybreak6/java-design-pattern/wiki/스터디일정)
-* [스터디일정](https://github.com/daybreak6/java-design-pattern/wiki/스터디내용)
-* [스터디일정](https://github.com/daybreak6/java-design-pattern/wiki/공유자료)
+* [스터디내용](https://github.com/daybreak6/java-design-pattern/wiki/스터디내용)
+* [공유자료](https://github.com/daybreak6/java-design-pattern/wiki/공유자료)
